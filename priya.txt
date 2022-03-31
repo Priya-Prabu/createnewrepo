@@ -5,6 +5,6 @@ master branch edit
 my feature add -1
 hi priya
 edit-2 in my master branch
-
+adding this line to stash
 
 
