@@ -2,8 +2,12 @@ hi
 welcome
 na unga first commit ta delete pannitala -eeeee
 
+<<<<<<< HEAD
 master branch edit 
 
 
+=======
+my feature add -1
+>>>>>>> mynewbranch
 
 
