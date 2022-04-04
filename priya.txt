@@ -1,10 +1,11 @@
 hi
 welcome
-na unga first commit ta delete pannitala -eeeee
+hi priya now iam trying to pull request
 master branch edit 
 my feature add -1
 hi priya
 edit-2 in my master branch
 adding this line to stash
+add this line for newbranch
 
 
